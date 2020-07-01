@@ -1,0 +1,2 @@
+rootProject.name='VideoKonference'
+include ':app'
